@@ -1,2 +1,2 @@
 # DinoGame
- Dino game parecido com o do chrome
+ Minha versão do jogo do dinossauro do chrome.
